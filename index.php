@@ -85,8 +85,10 @@ body {
         <ul>
           <li><a href=>SHOP</a></li>
           <li><a href=>OCCASION</a></li>
-          <li><a href=>WANT TO SELL ON FLOOM</a></li>
-          <li><a href=>MERCH</a></li>
+          <li><a href=>SAME DAY DELIVERY</a></li>
+          <li><a href=>GET FREE DELIVERY</a></li>
+	  <li><a href=>WANT TO SELL ON FLOOM?</a></li>
+	  <li><a href=>MERCH</a></li>
         </ul>
       </nav>
       <div class="link-spanner titleblock">FLOOM<a href="https://s.codepen.io/htmlahoymichelle/debug/KzZxrp>"><span class="link-spanner"></span></a>
